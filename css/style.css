@@ -1,0 +1,116 @@
+body, html {
+margin: 0 auto;
+
+
+}
+
+
+
+#mainLogo {
+width: 200px;
+    margin: 30px 25px;
+    
+
+
+}
+
+.mockUps {
+width: 100%;
+    
+    text-align: center;
+    
+
+}
+
+#cloutLogin {
+width: 450px;
+    margin: 0 20px;
+    padding-bottom: 40px;
+
+
+}
+#cloutCreate {
+width: 450px;
+    margin: 0 20px;
+    padding-bottom: 40px;
+
+
+}
+
+#aboutLink {
+font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 30px;
+    font-weight: 300;
+    text-decoration: none;
+    float: right;
+    margin: 30px 80px;
+
+
+}
+
+#aboutLink:hover {
+color: #2ecc71;
+}
+
+#bottomMasterContainer {
+width: 100vw;
+    height: 70vh;
+    background-image: url(../img/runnerBackground.png);
+    background-size: cover;
+    padding-top: 70px;
+    
+
+
+
+}
+
+.descriptionContainer {
+    width: 90%;
+    margin: 0 auto;
+    height: 90%;
+    background-color: rgba(0,0,0,.4);
+    border-radius: 10px;
+    color: white;
+    
+    
+}
+
+#whatIsClout {
+width: 400px;
+    margin: 100px 80px 0 160px;
+
+
+}
+
+#description {
+    width: 80%;
+margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 40px;
+
+
+}
+
+#downloadBtn {
+width: 20%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 30px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    float: right;
+    margin: 80px 160px 0 80px;
+    
+
+}
+
+#downloadBtn:hover {
+color: white;
+    cursor: pointer;
+    border: 1px solid white;
+
+}
