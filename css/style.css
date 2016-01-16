@@ -26,33 +26,29 @@ html {
 }
 
 @media screen and (max-width: 1280px) {
-    #mainLogo {
-  width: 150px;
-  margin: 30px 25px;
-}
-#cloutLogin {
-  width: 300px;
-  margin: 0 20px;
-  padding-bottom: 40px;
-}
-
-#cloutCreate {
-  width: 300px;
-  margin: 0 20px;
-  padding-bottom: 40px;
-}
- #aboutLink {
-  font-family: Helvetica Neue, sans-serif;
-  color: #444444;
-  font-size: 20px;
-  font-weight: 100;
-  text-decoration: none;
-  float: right;
-  margin: 40px 80px;
-}
-
-
-
+  #mainLogo {
+    width: 150px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 300px;
+    margin: 0 20px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 300px;
+    margin: 0 20px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 20px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 40px 80px;
+  }
 }
 
 #aboutLink {
@@ -119,271 +115,336 @@ html {
 }
 
 @media screen and (max-width: 1280px) {
-
-#whatIsClout {
-  width: 350px;
-  margin: 60px 80px 0 160px;
-}
-
-#description {
-  width: 70%;
-  margin: 0 auto;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  font-size: 30px;
-}
-
-#downloadBtn {
-  width: 20%;
-  background-color: transparent;
-  border: 1px solid #2ecc71;
-  border-radius: 10px;
-  color: #2ecc71;
-  font-size: 30px;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  float: right;
-  margin: 30px 160px 0 80px;
-}
-
-#downloadBtn:hover {
-  color: white;
-  cursor: pointer;
-  border: 1px solid white;
-}
-
-
-
+  #whatIsClout {
+    width: 350px;
+    margin: 60px 80px 0 160px;
+  }
+  #description {
+    width: 70%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+  }
+  #downloadBtn {
+    width: 20%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 30px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    float: right;
+    margin: 30px 160px 0 80px;
+  }
+  #downloadBtn:hover {
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+  }
 }
 
 @media screen and (max-width: 414px) {
-#mainLogo {
-  width: 100px;
-  margin: 30px 25px;
-}
-#cloutLogin {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-
-#cloutCreate {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-     #aboutLink {
-  font-family: Helvetica Neue, sans-serif;
-  color: #444444;
-  font-size: 18px;
-  font-weight: 100;
-  text-decoration: none;
-  float: right;
-  margin: 35px 40px 40px 80px;
-}
-    #whatIsClout {
-  width: 250px;
-  margin: 20px 60px 0 60px;
-}
-
-#description {
-  width: 70%;
-  margin: 0 auto;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  font-size: 25px;
-}
-
-#downloadBtn {
-  width: 40%;
-  background-color: transparent;
-  border: 1px solid #2ecc71;
-  border-radius: 10px;
-  color: #2ecc71;
-  font-size: 20px;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  margin: 30px 110px 0 80px;
-}
-
-#downloadBtn:hover {
-  color: white;
-  cursor: pointer;
-  border: 1px solid white;
-}
-
-
-
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 250px;
+    margin: 20px 60px 0 60px;
+  }
+  #description {
+    width: 70%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 25px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 20px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 30px 110px 0 80px;
+  }
+  #downloadBtn:hover {
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+  }
 }
 
 @media screen and (min-width: 668px) and (max-width: 736px) {
-#mainLogo {
-  width: 100px;
-  margin: 30px 25px;
-}
-#cloutLogin {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-
-#cloutCreate {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-     #aboutLink {
-  font-family: Helvetica Neue, sans-serif;
-  color: #444444;
-  font-size: 18px;
-  font-weight: 100;
-  text-decoration: none;
-  float: right;
-  margin: 35px 40px 40px 80px;
-}
-    #whatIsClout {
-  width: 250px;
-  margin: 20px 60px 0 60px;
-}
-
-#description {
-  width: 80%;
-  margin: 0 auto;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  font-size: 20px;
-}
-
-#downloadBtn {
-  width: 40%;
-  background-color: transparent;
-  border: 1px solid #2ecc71;
-  border-radius: 10px;
-  color: #2ecc71;
-  font-size: 20px;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  margin: 30px 60px 0 80px;
-}
-
-#downloadBtn:hover {
-  color: white;
-  cursor: pointer;
-  border: 1px solid white;
-}
-
-
-
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 250px;
+    margin: 20px 60px 0 60px;
+  }
+  #description {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 20px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 30px 60px 0 80px;
+  }
+  #downloadBtn:hover {
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+  }
 }
 
 @media screen and (min-width: 415px) and (max-width: 667px) {
-#mainLogo {
-  width: 100px;
-  margin: 30px 25px;
-}
-#cloutLogin {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-
-#cloutCreate {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-     #aboutLink {
-  font-family: Helvetica Neue, sans-serif;
-  color: #444444;
-  font-size: 18px;
-  font-weight: 100;
-  text-decoration: none;
-  float: right;
-  margin: 35px 40px 40px 80px;
-}
-    #whatIsClout {
-  width: 200px;
-  margin: 20px 60px 0 60px;
-}
-
-#description {
-  width: 80%;
-  margin: 0 auto;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  font-size: 18px;
-}
-
-#downloadBtn {
-  width: 40%;
-  background-color: transparent;
-  border: 1px solid #2ecc71;
-  border-radius: 10px;
-  color: #2ecc71;
-  font-size: 18px;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  margin: 30px 60px 0 80px;
-}
-
-#downloadBtn:hover {
-  color: white;
-  cursor: pointer;
-  border: 1px solid white;
-}
-
-
-
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 200px;
+    margin: 20px 60px 0 60px;
+  }
+  #description {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 18px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 18px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 30px 60px 0 80px;
+  }
+  #downloadBtn:hover {
+    color: white;
+    cursor: pointer;
+    border: 1px solid white;
+  }
 }
 
 @media screen and (max-width: 375px) {
-#mainLogo {
-  width: 100px;
-  margin: 30px 25px;
-}
-#cloutLogin {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 250px;
+    margin: 45px 40px 0 40px;
+  }
+  #description {
+    width: 75%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 20px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 30px 100px 0 80px;
+  }
 }
 
-#cloutCreate {
-  width: 150px;
-  margin: 0 15px;
-  padding-bottom: 40px;
-}
-     #aboutLink {
-  font-family: Helvetica Neue, sans-serif;
-  color: #444444;
-  font-size: 18px;
-  font-weight: 100;
-  text-decoration: none;
-  float: right;
-  margin: 35px 40px 40px 80px;
-}
-    #whatIsClout {
-  width: 250px;
-  margin: 45px 40px 0 40px;
+@media screen and (max-width: 320px) {
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 250px;
+    margin: 15px 20px 0 20px;
+  }
+  #description {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 20px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 20px 85px 0 80px;
+  }
 }
 
-#description {
-  width: 75%;
-  margin: 0 auto;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  font-size: 20px;
-}
-
-#downloadBtn {
-  width: 40%;
-  background-color: transparent;
-  border: 1px solid #2ecc71;
-  border-radius: 10px;
-  color: #2ecc71;
-  font-size: 20px;
-  font-family: Helvetica Neue, sans-serif;
-  font-weight: 100;
-  margin: 30px 100px 0 80px;
-}
+@media screen and (max-height: 480px) {
+  #mainLogo {
+    width: 100px;
+    margin: 30px 25px;
+  }
+  #cloutLogin {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #cloutCreate {
+    width: 150px;
+    margin: 0 15px;
+    padding-bottom: 40px;
+  }
+  #aboutLink {
+    font-family: Helvetica Neue, sans-serif;
+    color: #444444;
+    font-size: 18px;
+    font-weight: 100;
+    text-decoration: none;
+    float: right;
+    margin: 35px 40px 40px 80px;
+  }
+  #whatIsClout {
+    width: 250px;
+    margin: 15px 20px 0 20px;
+  }
+  #description {
+    width: 80%;
+    margin: 0 auto;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    font-size: 17px;
+  }
+  #downloadBtn {
+    width: 40%;
+    background-color: transparent;
+    border: 1px solid #2ecc71;
+    border-radius: 10px;
+    color: #2ecc71;
+    font-size: 20px;
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 100;
+    margin: 20px 85px 0 80px;
+  }
 }
 
