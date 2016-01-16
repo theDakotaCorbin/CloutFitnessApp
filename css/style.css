@@ -216,7 +216,7 @@ html {
 
 }
 
-@media screen and (min-width: 667px) and (max-width: 736px) {
+@media screen and (min-width: 668px) and (max-width: 736px) {
 #mainLogo {
   width: 100px;
   margin: 30px 25px;
@@ -276,7 +276,7 @@ html {
 
 }
 
-@media screen and (min-width: 414px) and (max-width: 667px) {
+@media screen and (min-width: 415px) and (max-width: 667px) {
 #mainLogo {
   width: 100px;
   margin: 30px 25px;
