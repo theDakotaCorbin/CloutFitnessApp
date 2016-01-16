@@ -215,3 +215,123 @@ html {
 
 
 }
+
+@media screen and (min-width: 667px) and (max-width: 736px) {
+#mainLogo {
+  width: 100px;
+  margin: 30px 25px;
+}
+#cloutLogin {
+  width: 150px;
+  margin: 0 15px;
+  padding-bottom: 40px;
+}
+
+#cloutCreate {
+  width: 150px;
+  margin: 0 15px;
+  padding-bottom: 40px;
+}
+     #aboutLink {
+  font-family: Helvetica Neue, sans-serif;
+  color: #444444;
+  font-size: 18px;
+  font-weight: 100;
+  text-decoration: none;
+  float: right;
+  margin: 35px 40px 40px 80px;
+}
+    #whatIsClout {
+  width: 250px;
+  margin: 20px 60px 0 60px;
+}
+
+#description {
+  width: 80%;
+  margin: 0 auto;
+  font-family: Helvetica Neue, sans-serif;
+  font-weight: 100;
+  font-size: 20px;
+}
+
+#downloadBtn {
+  width: 40%;
+  background-color: transparent;
+  border: 1px solid #2ecc71;
+  border-radius: 10px;
+  color: #2ecc71;
+  font-size: 20px;
+  font-family: Helvetica Neue, sans-serif;
+  font-weight: 100;
+  margin: 30px 60px 0 80px;
+}
+
+#downloadBtn:hover {
+  color: white;
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+
+
+}
+
+@media screen and (min-width: 414px) and (max-width: 667px) {
+#mainLogo {
+  width: 100px;
+  margin: 30px 25px;
+}
+#cloutLogin {
+  width: 150px;
+  margin: 0 15px;
+  padding-bottom: 40px;
+}
+
+#cloutCreate {
+  width: 150px;
+  margin: 0 15px;
+  padding-bottom: 40px;
+}
+     #aboutLink {
+  font-family: Helvetica Neue, sans-serif;
+  color: #444444;
+  font-size: 18px;
+  font-weight: 100;
+  text-decoration: none;
+  float: right;
+  margin: 35px 40px 40px 80px;
+}
+    #whatIsClout {
+  width: 200px;
+  margin: 20px 60px 0 60px;
+}
+
+#description {
+  width: 80%;
+  margin: 0 auto;
+  font-family: Helvetica Neue, sans-serif;
+  font-weight: 100;
+  font-size: 18px;
+}
+
+#downloadBtn {
+  width: 40%;
+  background-color: transparent;
+  border: 1px solid #2ecc71;
+  border-radius: 10px;
+  color: #2ecc71;
+  font-size: 18px;
+  font-family: Helvetica Neue, sans-serif;
+  font-weight: 100;
+  margin: 30px 60px 0 80px;
+}
+
+#downloadBtn:hover {
+  color: white;
+  cursor: pointer;
+  border: 1px solid white;
+}
+
+
+
+}
