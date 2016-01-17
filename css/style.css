@@ -48,6 +48,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 40px 80px;
+    -webkit-font-smoothing: antialiased;
   }
 }
 
@@ -59,10 +60,12 @@ html {
   text-decoration: none;
   float: right;
   margin: 40px 80px;
+    -webkit-font-smoothing: antialiased;    
 }
 
 #aboutLink:hover {
   color: #2ecc71;
+    -webkit-font-smoothing: antialiased;    
 }
 
 #bottomMasterContainer {
@@ -80,6 +83,7 @@ html {
   background-color: rgba(0, 0, 0, .4);
   border-radius: 10px;
   color: white;
+    -webkit-font-smoothing: antialiased;
 }
 
 #whatIsClout {
@@ -93,6 +97,7 @@ html {
   font-family: Helvetica Neue, sans-serif;
   font-weight: 100;
   font-size: 40px;
+    -webkit-font-smoothing: antialiased;
 }
 
 #downloadBtn {
@@ -106,6 +111,7 @@ html {
   font-weight: 100;
   float: right;
   margin: 80px 160px 0 80px;
+    -webkit-font-smoothing: antialiased;
 }
 
 #downloadBtn:hover {
@@ -125,6 +131,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 30px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 20%;
@@ -137,6 +144,7 @@ html {
     font-weight: 100;
     float: right;
     margin: 30px 160px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn:hover {
     color: white;
@@ -168,6 +176,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 250px;
@@ -179,6 +188,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 25px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -190,6 +200,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 30px 110px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn:hover {
     color: white;
@@ -221,6 +232,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 250px;
@@ -232,6 +244,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 20px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -243,6 +256,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 30px 60px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn:hover {
     color: white;
@@ -274,6 +288,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 200px;
@@ -285,6 +300,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 18px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -296,6 +312,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 30px 60px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn:hover {
     color: white;
@@ -327,6 +344,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 250px;
@@ -338,6 +356,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 20px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -349,6 +368,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 30px 100px 0 80px;
+    -webkit-font-smoothing: antialiased;
   }
 }
 
@@ -375,6 +395,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 250px;
@@ -386,6 +407,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 20px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -397,6 +419,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 20px 85px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
 }
 
@@ -423,6 +446,7 @@ html {
     text-decoration: none;
     float: right;
     margin: 35px 40px 40px 80px;
+      -webkit-font-smoothing: antialiased;
   }
   #whatIsClout {
     width: 250px;
@@ -434,6 +458,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     font-size: 17px;
+      -webkit-font-smoothing: antialiased;
   }
   #downloadBtn {
     width: 40%;
@@ -445,6 +470,7 @@ html {
     font-family: Helvetica Neue, sans-serif;
     font-weight: 100;
     margin: 20px 85px 0 80px;
+      -webkit-font-smoothing: antialiased;
   }
 }
 
